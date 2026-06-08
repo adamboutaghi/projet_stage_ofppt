@@ -79,7 +79,7 @@ export default function TeacherHome() {
               className="inline-flex items-center justify-center gap-2 bg-orange-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-700 hover:shadow-lg transition-all duration-200 font-medium"
             >
               <BookOpen className="w-5 h-5" />
-              Consulter mes cours
+              Consulter mes cours....
             </Link>
           </div>
         </div>
