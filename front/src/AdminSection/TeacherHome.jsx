@@ -64,7 +64,7 @@ export default function TeacherHome() {
         <div className="space-y-6">
           <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-100 text-orange-700 text-sm font-medium">
             <GraduationCap className="w-4 h-4" />
-            Espace 
+            Espace ddd
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight text-blue-950">
             Bienvenue, <span className="text-orange-600">{firstName} .</span>
@@ -79,7 +79,7 @@ export default function TeacherHome() {
               className="inline-flex items-center justify-center gap-2 bg-orange-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-700 hover:shadow-lg transition-all duration-200 font-medium"
             >
               <BookOpen className="w-5 h-5" />
-              Consulter mes cours
+              Consulter mes cours dddd
             </Link>
           </div>
         </div>
