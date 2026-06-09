@@ -64,10 +64,10 @@ export default function TeacherHome() {
         <div className="space-y-6">
           <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-100 text-orange-700 text-sm font-medium">
             <GraduationCap className="w-4 h-4" />
-            Espace Enseignant
+            Espace Enseignant .
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight text-blue-950">
-            Bienvenue, <span className="text-orange-600">{firstName} .</span>
+            Bienvenue, <span className="text-orange-600">{firstName} </span>
           </h2>
           <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
             Gérez vos cours, consultez votre emploi du temps et suivez vos groupes
